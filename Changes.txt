@@ -1,0 +1,7 @@
+1st Attempt: for payment page update UI
+Date: 1st Nov 2026
+
+templates/payment.html
+static/js/app.js
+static/css/app.css
+templates/base.html
