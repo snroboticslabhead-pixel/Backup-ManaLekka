@@ -5,3 +5,10 @@ templates/payment.html
 static/js/app.js
 static/css/app.css
 templates/base.html
+
+2nd Attempt: for payment page update UI
+Date: 2nd Nov 2026
+templates/payment.html
+static/js/app.js
+static/css/app.css
+templates/base.html
